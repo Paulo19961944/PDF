@@ -1,18 +1,18 @@
 @media print{
-  html, body{
+  *{
     background-color: #000;
     height: 100%;
     margin: 0;
     padding: 0;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
     
   }
 
   body {
-    background-image: url('../img/Codigo_Binario.png');
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    height: auto;
+    background-image: url('../img/Codigo_Binario.png')
+  
   }
 
 
