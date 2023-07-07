@@ -12,6 +12,36 @@
     background-repeat: no-repeat;
   }
 
+  p{
+  color:#00FF00;
+  font-size: 25px;
+  font-weight: 500;
+}
+
+li{
+  color:#00FF00;
+  font-size:18px;
+  font-weight: 500;
+}
+
+img{
+  width:100%;
+}
+
+label.form-label{
+  color:#00FF00;
+  font-weight:600;
+  padding-top:20px;
+}
+
+div.container.mt-4{
+  padding-top: 95px;
+}
+
+div.mb-3{
+  padding-top:12px;
+}
+
 
 
 }
